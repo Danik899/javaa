@@ -15,6 +15,4 @@ public class Main {
         FullReport.generateReport(employees,localeEN);
         FullReport.generateReport(employees,localeRU);
     }
-
-
 }
